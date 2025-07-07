@@ -1,26 +1,3 @@
-# Building Ask@Dojo: A Technical Deep Dive into Tutorials Dojo's AI Assistant
-
-## Abstract
-
-This technical article explores the architecture, implementation, and design decisions behind Ask@Dojo, an AI-powered chatbot assistant for Tutorials Dojo's certification platform. We examine the React-based frontend implementation, local AI processing architecture, and the comprehensive knowledge base system that powers intelligent responses for AWS, Azure, and Google Cloud certification queries.
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [System Architecture](#system-architecture)
-3. [Frontend Implementation](#frontend-implementation)
-4. [AI Processing Engine](#ai-processing-engine)
-5. [Knowledge Base Design](#knowledge-base-design)
-6. [User Interface Design](#user-interface-design)
-7. [Performance Considerations](#performance-considerations)
-8. [Technical Challenges and Solutions](#technical-challenges-and-solutions)
-9. [Future Enhancements](#future-enhancements)
-10. [Conclusion](#conclusion)
-
-## Introduction
-
-Ask@Dojo represents a modern approach to customer support automation, leveraging local AI processing to provide instant, accurate responses about certification materials. Built with React 18 and TypeScript, the system demonstrates how to create an intelligent chatbot without external API dependencies, ensuring data privacy and reducing operational costs.
-
 ### Key Technical Objectives
 
 - **Local Processing**: Eliminate external API dependencies for enhanced privacy and cost efficiency
