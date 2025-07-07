@@ -449,8 +449,6 @@ const updateCertification = (certCode: string, newInfo: CertificationInfo) => {
 
 ## Conclusion
 
-Ask@Dojo demonstrates how modern web technologies can be leveraged to create intelligent, responsive chatbot interfaces without external dependencies. The implementation showcases several key technical achievements:
-
 1. **Local AI Processing**: Eliminated external API dependencies while maintaining intelligent responses
 2. **Type-Safe Architecture**: Full TypeScript implementation ensures code reliability
 3. **Responsive Design**: Seamless experience across all device types
@@ -460,13 +458,12 @@ Ask@Dojo demonstrates how modern web technologies can be leveraged to create int
 
 ### Lessons Learned
 
-1. **Rule-based systems** can provide sophisticated responses without complex ML models
+1. **Rule-based systems** can provide responses without complex ML models
 2. **Local processing** offers significant advantages in privacy and cost
 3. **TypeScript** dramatically improves code quality and maintainability
 4. **Component-based architecture** enables rapid feature development
 5. **Performance optimization** should be considered from the initial design phase
 
----
 
 **Technical Specifications**
 
