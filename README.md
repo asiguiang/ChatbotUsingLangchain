@@ -474,20 +474,12 @@ const updateCertification = (certCode: string, newInfo: CertificationInfo) => {
 
 Ask@Dojo demonstrates how modern web technologies can be leveraged to create intelligent, responsive chatbot interfaces without external dependencies. The implementation showcases several key technical achievements:
 
-### Technical Achievements
-
 1. **Local AI Processing**: Eliminated external API dependencies while maintaining intelligent responses
 2. **Type-Safe Architecture**: Full TypeScript implementation ensures code reliability
 3. **Responsive Design**: Seamless experience across all device types
 4. **Performance Optimization**: Efficient state management and UI updates
 5. **Maintainable Codebase**: Clean architecture with clear separation of concerns
 
-### Business Impact
-
-- **Cost Reduction**: No external API costs for AI processing
-- **Data Privacy**: All processing occurs locally
-- **Scalability**: Easy to extend with new certifications and features
-- **User Experience**: Immediate, accurate responses improve customer satisfaction
 
 ### Lessons Learned
 
@@ -496,8 +488,6 @@ Ask@Dojo demonstrates how modern web technologies can be leveraged to create int
 3. **TypeScript** dramatically improves code quality and maintainability
 4. **Component-based architecture** enables rapid feature development
 5. **Performance optimization** should be considered from the initial design phase
-
-The Ask@Dojo implementation serves as a blueprint for building intelligent chatbot interfaces that prioritize user experience, data privacy, and maintainability. The architecture demonstrates how modern web technologies can be combined to create sophisticated AI applications without external dependencies.
 
 ---
 
@@ -511,10 +501,4 @@ The Ask@Dojo implementation serves as a blueprint for building intelligent chatb
 - **Browser Support**: Modern browsers with ES6+ support
 - **Performance**: < 2s initial load, < 500ms response time
 
-**Repository**: [https://github.com/asiguiang/ChatbotUsingLangchain](https://github.com/asiguiang/ChatbotUsingLangchain)
-**Live Demo**: [Demo URL]
-**Documentation**: [Documentation URL]
 
----
-
-*This technical documentation provides a comprehensive overview of the Ask@Dojo implementation. For implementation details, code examples, and deployment instructions, refer to the source code and additional documentation.*
